@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I’m a 2nd Computer Science student at **Dr. Subhash University** and a Flutter developer focused on building practical, real-world applications.  
+I’m a 2nd year Computer Science student at **Dr. Subhash University** and a Flutter developer focused on building practical, real-world applications.  
 My work centers on **Restaurant ordering apps (QR-Code based), and admin & staff dashboards**, with an emphasis on **clean UI, real-time data, and scalable architecture**.
 
 I like turning simple ideas into usable products—fast, reliable, and user-friendly.
