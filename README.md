@@ -1,18 +1,79 @@
-# 💫 About Me:
-I’m a Flutter developer building a **Smart QR-Based Restaurant Ordering System** using Flutter & Firebase, focused on contactless dining, real-time order management, and efficient admin dashboards. I enjoy solving real-world problems through scalable app architecture, and I’m currently exploring advanced Flutter concepts, state management, and Firebase optimization to build high-performance applications. I’m open to collaborating on impactful projects and continuously working on turning ideas into practical, user-friendly solutions.<br>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h3 align="center">Flutter Developer | Building Real-World Apps</h3>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed.navy63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmednaviwala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmednaviwala27@gmail.com) 
+## 🚀 About Me
+I’m a 2nd Computer Science student at **Dr. Subhash University** and a Flutter developer focused on building practical, real-world applications.  
+My work centers on **Restaurant ordering apps (QR-Code based), and admin & staff dashboards**, with an emphasis on **clean UI, real-time data, and scalable architecture**.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ahmednaviwala27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ahmednaviwala27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmednaviwala27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I like turning simple ideas into usable products—fast, reliable, and user-friendly.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase (Firestore, Auth)
+- **State Management:** Provider / GetX
+- **Tools:** Git, GitHub, VS Code
+- **Other:** REST APIs, UI/UX Design
+
+---
+
+## 📱 Featured Projects
+
+### 🔹 Smart QR-Based Restaurant Ordering System
+A complete contactless dining solution where customers scan a QR code to browse the menu and place orders without waiting.
+
+**Key Features:**
+- 📲 QR-based ordering (no login required for customers)
+- 🛒 Add-to-cart with dynamic quantity system
+- 🔄 Real-time order updates (Pending → Ready → Completed)
+- 📊 Admin dashboard with analytics (orders, revenue)
+- ⚡ Clean and responsive UI
+
+**Tech Used:** Flutter, Firebase (Firestore), Provider  
+👉 _Focus: real-time data handling + smooth UX_
+
+---
+
+### 🔹 Restaurant Admin Dashboard
+A management panel designed for restaurant staff to handle orders efficiently.
+
+**Key Features:**
+- 📦 Order tracking with status updates
+- 📈 Revenue & order analytics
+- 🧾 Real-time data sync with Firestore
+- 🎯 Clean dashboard UI with structured components
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter 
+- Firebase optimization & scalable data structures
+- Better state management (Riverpod)
+
+---
+
+## 🤝 Looking to Collaborate On
+- Flutter apps with real-world use cases  
+- Admin dashboards & real-time systems  
+- UI/UX improvements in production apps  
+
+---
+
+## 💬 Ask Me About
+Flutter, Firebase, QR-based systems, restaurant apps, and turning ideas into working products.
+
+---
+
+## 📫 Contact Me
+📧 **ahmednaviwala27@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+I enjoy building apps that solve everyday problems—especially systems that improve speed, efficiency, and user experience.
+
+---
